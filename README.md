@@ -37,7 +37,7 @@ Repository that contains some exercises done while learning the software and the
   
 *Car_deburring_with_ur5*
 
-  Exercise representing the deburring of a plastic car, the objects are picked from the stack and then put away on a second stack after the task s complete.
+  Exercise representing the deburring of a plastic car, the objects are picked from the stack and then put away on a second stack after the task is complete.
 
 
 ## Others
