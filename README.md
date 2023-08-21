@@ -7,7 +7,7 @@ Repository that contains some exercises done while learning the software and the
   
   Simple exercise to understand the functioning of mechanisms and target on surface, for this example I ignored the collision problem
   
-  03E_-_Organize_shapes_-_Bonus
+  *03E_-_Organize_shapes_-_Bonus*
   
   Simple exercise that orders and stacks the objects of the same color in their correct place
   
