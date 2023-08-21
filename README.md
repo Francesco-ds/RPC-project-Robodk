@@ -2,8 +2,8 @@
 Repository that contains some exercises done while learning the software and the 2 manufacturing task chosen
 
 # Description of the files inside this folder
-  # Normal exercises
-  InspectTransmission
+  ## Normal exercises
+  ### InspectTransmission
   
   Simple exercise to understand the functioning of mechanisms and target on surface, for this example I ignored the collision problem
   
