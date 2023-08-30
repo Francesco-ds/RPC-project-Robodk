@@ -1,5 +1,5 @@
 # RPC-project-Robodk
-Repository that contains some exercises done while learning the software and the 2 manufacturing tasks chosen.
+Repository that contains some exercises done while learning the software and the 2 manufacturing tasks chosen for the course project.
 
 # Description of the files inside the folders
 ## Normal exercises
@@ -42,6 +42,6 @@ Repository that contains some exercises done while learning the software and the
 
 ## Others
 
-It is worthy to mention that both the assignments are collision free, however (at least for my pc) having the collision detection on makes the simulation very laggy, therefore if it is needed to check the truth of this I recommend to run the single calls in the main program separately and run the complete simulation without having it on.
+Both the assignments are collision free, however (at least for my pc) having the collision detection on makes the simulation very laggy, therefore if it is needed to check the truth of this I recommend to run the single calls in the main program separately and run the complete simulation without having it on.
 
 Every task was done with the ur5 robot.
